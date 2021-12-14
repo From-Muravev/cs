@@ -1,0 +1,5 @@
+{
+    "steamid": "YOUR_STEAM_ID_64",
+    "shared_secret": "YOUR_SHARED_SECRET",
+    "identity_secret": "YOUR_IDENTITY_SECRET"
+}
